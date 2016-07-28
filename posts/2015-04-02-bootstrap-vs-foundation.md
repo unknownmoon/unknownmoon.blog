@@ -5,6 +5,12 @@ categories: tech
 tags: css-framework front-end blog
 ---
 
+> [Updated on 2016-07-28]
+>
+> Time flies and more than 1 year has been passed, however, still haven't create a theme for the blog (good job myself...)...  
+> 
+> Now the Foundation 6 has been released for a while (with "for sites", "for emails", and "for apps", oh my!), while Bootstrap 4 is on its alpha3, hence, it may be a proper time to skip the Bootstrap 3 and Foundation 5, and do another comparison of the next version of them :P
+
 Now I'm looking for a HTML/CSS/JS framework for build a theme for this blog, there are two of the frameworks on the top of the list - [Bootstrap][bootstrap-link] and [Foundation][foundation-link].
 
 Based on the articles I found, it seems that Foundation wins. Following are the pros of Foundation:
